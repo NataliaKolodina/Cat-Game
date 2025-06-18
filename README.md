@@ -67,4 +67,4 @@ This project is licensed under the MIT License — feel free to use or modify it
 I'm **Nataliia Kolodina**, a junior front-end developer passionate about creating fun and interactive user experiences.  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nataliia-kolodina/)
 ```
-**
+

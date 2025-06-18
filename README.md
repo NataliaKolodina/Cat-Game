@@ -5,7 +5,7 @@ Click the cat image to score points and watch how the cat reacts!
 
 ## 🚀 Demo
 
-👉 [Live Demo](https://natalia-kolodina-cat-game.netlify.app/) *(replace with your actual live link if available)*
+👉 [Live Demo]((https://nataliaKolodina.github.io/Cat-Game/)) 
 
 ## 🎯 Features
 
